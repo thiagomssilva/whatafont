@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #f8f5f5;
+}
+
+p {
+    padding-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    line-height: 1.8;
+    word-spacing: 2px;
+    font-size: 24px;
+}
+
+h1 {
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.main-content {
+    text-align: center;
+    font-family: "Dancing Script";
+    margin: 0 auto;
+}
+
+.bold-txt {
+    font-weight: 900;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.medium-txt {
+    font-size: 38px;
+}
+
+.large-txt {
+    font-size: 40px;
+}
+
+.red-txt {
+    color: red;
+}
+
+.blue-txt {
+    color: blue;
+}
+
+.gray-txt {
+    color: gray;
+}
+
+.padding-top {
+    padding-top: 30px;
+}
